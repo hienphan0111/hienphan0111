@@ -8,9 +8,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Automation Engineering at Da Nang University of Technology.
+- 🎓 &nbsp; Studying Automation Engineering at the Da Nang University of Technology.
 - 💼 &nbsp; Working as a full-stack web developer.
-- 🌱 &nbsp; Learning more about cybercecurity.
+- 🌱 &nbsp; Learning more about cybersecurity.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
