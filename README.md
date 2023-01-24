@@ -1,4 +1,8 @@
-<img src="https://www.canva.com/design/DAFYlV7aRHA/exuIIOLadA1j_NAsqHHxyg/view?utm_content=DAFYlV7aRHA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" >
+<img src="https://iili.io/HlmCPPs.md.png" alt="HlmCPPs.md.png" border="0" width="840"></a>
+
+
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFYlV7aRHA&#x2F;view?utm_content=DAFYlV7aRHA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener"></a>
+
 <h2> Hey there! I'm Hien Phan.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -29,12 +33,10 @@
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hienphan0111&show_icons=true&theme=radical)
-<a href="https://github.com/hienphan0111">
-  [![Hienphan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hienphan0111)](https://github.com/anuraghazra/github-readme-stats)
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hienphan0111&theme=buefy&layout=compact" />
-</a>
 
+<a href="https://github.com/hienphan0111">
+  <img height="180em" src="https://github-readme-stats-hienphan0111.vercel.app/api/top-langs/?username=hienphan0111&theme=buefy&layout=compact" />
+</a>
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
