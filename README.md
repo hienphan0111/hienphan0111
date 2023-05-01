@@ -35,10 +35,24 @@
 
 <br/>
 
+<div width="100%" align="center">
+  <a href="https://github.com/hienphan0111">
+    <img height="50%" align="left" src="https://github-readme-stats-hienphan0111.vercel.app/api/top-langs/?username=hienphan0111&theme=buefy&layout=compact" />
+  </a>
+</div>
 
-<a href="https://github.com/hienphan0111">
-  <img height="180em" src="https://github-readme-stats-hienphan0111.vercel.app/api/top-langs/?username=hienphan0111&theme=buefy&layout=compact" />
-</a>
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=hienphan0111&show_icons=true&theme=highcontrast"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=hienphan0111&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=hienphan0111&show_icons=true" />
+</picture>
+
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
